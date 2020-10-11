@@ -1,0 +1,26 @@
+html{
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(#39a5e4,#52f1e2);
+}
+.container{
+    height: 560px;
+    background-color: #7C8DE6;
+    border-radius: 50px;
+}
+.container .titulo{
+    text-align: center;
+    color: #fff;
+}
+.container select{
+    margin: auto;
+    width: 700px;
+}
+.container .list-group{
+    width: 700px;
+    margin: auto;
+}
+.container .list-group .list-group-item{
+    height: 45px;
+}
